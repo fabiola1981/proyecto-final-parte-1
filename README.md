@@ -1,9 +1,9 @@
 #Tema seleccionado
 
-Mi tema elegido es un "Club 
+Mi tema elegido es un "Club Deportivo de la Comuna"
 
-Deportivo de la Comuna"
+LLamado Pelestino-Quilicura es un club de Fútbol, que ofrece a sus alumnos 
 
-LLamado Pelestino-Quilicura es un 
+un lugar donde desarrollar sus habilidades deprtivas.
 
-club de Fútbol 
+##Objetivos Interfaz (UI) y Experiencia usuario (UX)
